@@ -248,6 +248,9 @@ input:-moz-placeholder, :-moz-placeholder {
 .login-grid .login-openstreetmap {
     background-image: url("./openstreetmap.png");
 }
+.login-grid .login-facebook {
+    background-image: url("./facebook.png");
+}
 
 /*
 * Navigation
